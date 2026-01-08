@@ -1,5 +1,12 @@
 # Maintenance Mode
 
+[![BlackRoad OS Fork](https://img.shields.io/badge/BlackRoad%20OS-Fork-FF1D6C?style=for-the-badge)](https://blackroad.io)
+
+> **🌌 BlackRoad OS Customizations:** This is a BlackRoad OS fork. See [.blackroad/README.md](.blackroad/README.md) for BlackRoad-specific documentation and customizations.
+
+---
+
+
 **This project is currently under maintenance and is not accepting new changes.**
 
 **Alternate Options:**

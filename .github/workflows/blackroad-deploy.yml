@@ -1,0 +1,17 @@
+name: BlackRoad Deployment
+
+on:
+  push:
+    branches: [blackroad-main, blackroad-production]
+  workflow_dispatch:
+
+jobs:
+  deploy-blackroad:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Deploy to BlackRoad Infrastructure
+        run: |
+          echo "Deploying to BlackRoad infrastructure..."
+          # Add BlackRoad-specific deployment steps

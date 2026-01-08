@@ -1,0 +1,15 @@
+# BlackRoad OS - minio-1 Deployment
+# Docker Compose configuration
+
+version: '3.8'
+
+services:
+  minio-1:
+    image: blackroad/minio-1:latest
+    container_name: blackroad-minio-1
+    restart: unless-stopped
+    environment:
+      - BLACKROAD_ENV=production
+    # Add service-specific configuration here
+
+# For complete deployment guide, see ../README.md
