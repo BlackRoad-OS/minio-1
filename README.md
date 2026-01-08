@@ -178,3 +178,32 @@ Please follow MinIO [Contributor's Guide](https://github.com/minio/minio/blob/ma
 - MinIO source is licensed under the [GNU AGPLv3](https://github.com/minio/minio/blob/master/LICENSE).
 - MinIO [documentation](https://github.com/minio/minio/tree/master/docs) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - [License Compliance](https://github.com/minio/minio/blob/master/COMPLIANCE.md)
+
+---
+
+## 📜 License & Copyright
+
+**Copyright © 2026 BlackRoad OS, Inc. All Rights Reserved.**
+
+**CEO:** Alexa Amundson
+
+**PROPRIETARY AND CONFIDENTIAL**
+
+This software is the proprietary property of BlackRoad OS, Inc. and is **NOT for commercial resale**.
+
+### ⚠️ Usage Restrictions:
+- ✅ **Permitted:** Testing, evaluation, and educational purposes
+- ❌ **Prohibited:** Commercial use, resale, or redistribution without written permission
+
+### 🏢 Enterprise Scale:
+Designed to support:
+- 30,000 AI Agents
+- 30,000 Human Employees
+- One Operator: Alexa Amundson (CEO)
+
+### 📧 Contact:
+For commercial licensing inquiries:
+- **Email:** blackroad.systems@gmail.com
+- **Organization:** BlackRoad OS, Inc.
+
+See [LICENSE](LICENSE) for complete terms.
